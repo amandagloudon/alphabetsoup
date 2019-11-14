@@ -1,10 +1,10 @@
 \name{letter}
 \alias{letter}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{letter
 %%  ~~function to do ... ~~
 }
-\description{
+\description{test
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
