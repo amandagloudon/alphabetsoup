@@ -8,19 +8,19 @@
 \description{
 \packageDescription{AlphabetSoup}
 }
-\details{s
+\details{
 
 The DESCRIPTION file:
 \packageDESCRIPTION{AlphabetSoup}
 \packageIndices{AlphabetSoup}
 ~~ An overview of how to use the package, including the most important functions ~~
 }
-\author{s
+\author{
 \packageAuthor{AlphabetSoup}
 
-Maintainer: s \packageMaintainer{AlphabetSoup}
+Maintainer:  \packageMaintainer{AlphabetSoup}
 }
-\references{s
+\references{
 ~~ Literature or other references for background information ~~
 }
 ~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R ~~
@@ -30,6 +30,6 @@ Maintainer: s \packageMaintainer{AlphabetSoup}
 ~~ Optional links to other man pages, e.g. ~~
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
-\examples{s
+\examples{
 ~~ simple examples of the most important functions ~~
 }
